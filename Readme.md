@@ -100,6 +100,11 @@ Running the Project:
 
 2) Start the Server : uvicorn app.main:app --reload
 
+A full demo video (`demo.mp4`) is included in the repository.
+
+You can view it here:
+- [demo.mp4](./demo.mp4)
+
 
 Closing Notes :
 
@@ -111,4 +116,5 @@ I aimed to design a clean, readable, and modular workflow system that demonstrat
  and real-time visibility .
 
 The final result is a flexible mini-engine that can be extended with different workflows while keeping the core logic straightforward.
+
 
